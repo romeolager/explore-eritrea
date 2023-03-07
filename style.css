@@ -29,3 +29,8 @@ nav ul a:hover{
     background-color: green;
     color: white;
 }
+.items{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
